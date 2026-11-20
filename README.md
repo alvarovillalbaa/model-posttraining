@@ -1,5 +1,9 @@
 # model-posttraining
 
+<!-- project-family:start -->
+> **Project family:** [AI Research Lab](https://github.com/alvarovillalbaa#ai-research-lab) · **Area:** Model post-training
+<!-- project-family:end -->
+
 Last updated: 2026-11-10
 
 Adapt an existing language-model checkpoint with supervised, preference, or reward-based post-training.
